@@ -137,6 +137,38 @@ li.contact {
     background-origin: border-box;
     margin: 10px
 }
+section.yt{
+    position: relative;
+    text-align: center;
+    padding-top:20vh;
+    padding-bottom:30vh;
+    height:50vh;
+}
+section.download {
+    position: relative;
+    text-align: center;
+    padding-top:20vh;
+    padding-bottom:30vh;
+    height:50vh;
+}
+h1,h2,h3,li {
+    font-family: 'JetBrains Mono';
+    padding:0;
+    text-align: center;
+}
+h1 {
+    margin-bottom: 0;
+    font-style: light;
+}
+h3 {
+    color: gray;
+    font-size:large;
+    margin-top: 0;
+}
+ul {
+    list-style: none; 
+    padding: 0;
+}
 footer {
     background-color: #303030;
     color:white;
